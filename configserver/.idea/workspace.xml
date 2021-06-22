@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="53676638-f9ce-46bf-96ec-d24d4355ab15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../cargar-imagen" beforeDir="false" afterPath="$PROJECT_DIR$/../cargar-imagen" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cliente/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cliente" beforeDir="false" afterPath="$PROJECT_DIR$/../cliente" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../registry-service/src/main/java/com/practice/registry/RegistryServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../registry-service/src/main/java/com/practice/registry/RegistryServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bootstrap.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
