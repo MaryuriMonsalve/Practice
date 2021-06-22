@@ -8,7 +8,7 @@ spring:
         overrideNone: false
       server:
         git:
-          uri: https://github.com/MaryuriMonsalve/Practice.git
+          uri: https://github.com/MaryuriMonsalve/practice.git
           searchPaths: config-data
   security:
     user:

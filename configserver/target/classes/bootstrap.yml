@@ -4,6 +4,8 @@ server:
 spring:
   cloud:
     config:
+      allowOverride: true
+        overrideNone: false
       server:
         git:
           uri: https://github.com/MaryuriMonsalve/Practice.git
