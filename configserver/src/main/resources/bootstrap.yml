@@ -1,0 +1,25 @@
+server:
+  port: 8081
+
+spring:
+  cloud:
+    config:
+      allowOverride: true
+        overrideNone: false
+      server:
+        git:
+          uri: https://github.com/MaryuriMonsalve/Practice.git
+          searchPaths: config-data
+  security:
+    user:
+      name: root
+      password: s3cr3t
+
+
+
+
+
+
+
+
+
