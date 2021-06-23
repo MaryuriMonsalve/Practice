@@ -10,7 +10,7 @@ spring:
         git:
           uri: https://github.com/MaryuriMonsalve/practice.git
           searchPaths: config-data
-  
+
 
 
 
